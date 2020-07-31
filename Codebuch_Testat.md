@@ -1,5 +1,5 @@
 # Kohlekommission Datensatz (Testat SNA)  #
-Codebuch Stand 2020-07-28   
+Codebuch Stand 2020-07-31   
 erstellt von Janina Hofmann (jh231@hdm-stuttgart.de)
 
 ## Inhalt
