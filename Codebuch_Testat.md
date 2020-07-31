@@ -51,6 +51,4 @@ Bei dem Netzwerk handelt es sich um ein *ungerichtetes two-mode Akteursnetzwerk*
 **position**	(Position innerhalb der Kommission) 1 = kein Stimmrecht 2 = Mitglied 3 = Vorsitz
 
 
-**state**	(Bundesland) 1 = Baden Württemberg 2 = Bayern 3 = Berlin 4 = Brandenburg 5 = Bremen 6 = Hamburg 7 = Hessen 8 = Mecklenburg-Vorpommern 9 = Niedersachsen 10 = Nordrhein-Westfalen 11 = Rheinland-Pfalz 12 = Saarland 13 = Sachsen 14 = Sachsen-Anhalt 15 = Schleswig-Holstein 16 = Thüringen																
-
-**proclimate**	(Tätigkeit im Bereich Klimaschutz) 1 = Ja 2 = Nein																
+**state**	(Bundesland) 1 = Baden Württemberg 2 = Bayern 3 = Berlin 4 = Brandenburg 5 = Bremen 6 = Hamburg 7 = Hessen 8 = Mecklenburg-Vorpommern 9 = Niedersachsen 10 = Nordrhein-Westfalen 11 = Rheinland-Pfalz 12 = Saarland 13 = Sachsen 14 = Sachsen-Anhalt 15 = Schleswig-Holstein 16 = Thüringen																																
